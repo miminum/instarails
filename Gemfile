@@ -36,6 +36,11 @@ gem 'devise'
 
 gem 'bootstrap', '~> 4.0.0.beta'
 
+gem 'shrine'
+gem 'image_processing'
+gem 'mini_magick'
+gem 'fastimage'              # for store_dimensions plugin
+
 
 
 group :development, :test do
