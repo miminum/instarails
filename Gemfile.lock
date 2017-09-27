@@ -195,6 +195,7 @@ PLATFORMS
   x64-mingw32
 
 DEPENDENCIES
+  bcrypt
   bootstrap (~> 4.0.0.beta)
   byebug
   capybara (~> 2.13)

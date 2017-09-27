@@ -41,6 +41,8 @@ gem 'image_processing'
 gem 'mini_magick'
 gem 'fastimage'              # for store_dimensions plugin
 
+gem 'bcrypt', platforms: :ruby
+
 
 
 group :development, :test do
